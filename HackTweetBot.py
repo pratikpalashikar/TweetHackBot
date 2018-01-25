@@ -10,10 +10,10 @@ import tweepy
 import ExtractHackerNews
 import time
 
-consumer_key ='d6bHhiUGy1vPUYgg4gjIVyG97'
-consumer_secret='uV9tYKOnK4wPEvGxzkeXPfHYxhbPuuBemyCufHxUEggyjOkfr5'
-access_token='156930434-TDMqOkG2IeUbWLBOfGfZZdLZrQ6kl3GeIPuqsWCO'
-access_token_secret='JprQaPvuv32scZKyzJrp2961sl7dAkqvISjfpPTTdq34r'
+consumer_key ='XXXXXXXX'
+consumer_secret='XXXXXXXXX'
+access_token='156930434-XXXXXXX'
+access_token_secret='XXXXXXX'
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 
